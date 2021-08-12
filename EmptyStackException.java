@@ -1,5 +1,5 @@
 /**
- *  @Rowena CS1027 | 251073629
+ *  @author Rowena
  *  This is the class of exceptions that will be thrown by methods
  *  pop and peek when invoked on an empty stack.
  */
