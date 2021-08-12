@@ -1,5 +1,5 @@
 /**
- *  @Rowena CS1027 | 251073629
+ *  @author Rowena
  *  This class will have an instance variable cityMap
  *  This variable references the object representing the city map where the program 
  *  will try to find a path from the starting cell to the destination cell.
